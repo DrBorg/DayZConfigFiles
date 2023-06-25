@@ -1,0 +1,688 @@
+FULL CLASSNAME LIST:
+    as of: 06/25/23
+    Created by: Dr. Borg
+
+CREATURES:
+    <!--BLOODSUCKERS START-->
+    SFP_ANM_Krovosos <!-- BROWN BLOODSUCKER -->
+    SFP_ANM_Krovosos_Boloto <!-- WHITE BLOODSUCKER -->
+    SFP_ANM_Krovosos_Dark <!-- BLACK BLOODSUCKER -->
+    SFP_ANM_BIG_Krovosos <!-- BROWN BLOODSUCKER BIG -->
+    SFP_ANM_BIG_Krovosos_Boloto <!-- WHITE BLOODSUCKER BIG -->
+    SFP_ANM_BIG_Krovosos_Dark <!-- BLACK BLOODSUCKER BIG -->
+    SFP_Piyavka <!-- ALIEN BLOODSUCKER -->
+    SFP_Bloodsucker_original <!-- Skin BLOODSUCKER -->
+    SFP_Bloodsucker_Blue <!-- Blue BLOODSUCKER -->
+    SFP_Bloodsucker_black <!-- Black BLOODSUCKER -->
+    SFP_Bloodsucker_red <!-- Red BLOODSUCKER -->
+    SFP_Bloodsucker_green <!-- Green BLOODSUCKER -->
+    SFP_Bloodsucker_Hameleon <!-- DARK RED BLOODSUCKER / WEIRD VISUAL GLITCHING -->   
+    <!--BLOODSUCKERS END-->
+
+    <!-- PSEUDO GIANT START -->
+    SFP_Gigant_Zad <!-- GIANT MEATBALL WITH ARMS -->
+    SFP_Gigant_Pered <!-- GIANT MEATBALL WITH ARMS -->
+    SFP_Gigant_Pered_GIGANT  <!-- GIANT MEATBALL WITH ARMS but stronger -->
+    <!-- PSEUDO GIANT END -->
+
+    <!-- PLOT START -->
+    SFP_Plot_style1 <!-- Tick/Hog Looking Thing -->
+    SFP_Plot_style2 <!-- Tick/Hog Looking Thing -->
+    <!-- PLOT END -->
+
+    <!--PSE DOG START-->
+    SFP_PseDOG_Brown <!-- CAT/DOG THING -->
+    SFP_PseDOG_Gray <!-- CAT/DOG THING -->
+    <!--PSE DOG END-->
+
+    <!--SLEPO DOG START-->
+    SFP_SlepoDOG_Brown <!-- Blind Mole Rat Looking Dog -->
+    SFP_SlepoDOG_bulterer <!-- Blind Mole Rat Looking Dog -->
+    SFP_SlepoDOG_Red <!-- Blind Mole Rat Looking Dog -->
+    SFP_SlepoDOG_White <!-- Blind Mole Rat Looking Dog -->
+    <!--SLEPO DOG END-->
+
+    <!-- CAT BAUN START -->
+    SFP_CatBaun <!-- Big ass annoying Cat -->
+    <!-- CAT BUAN END-->
+
+    <!-- HORSE START -->
+    SFP_Wild_Hourse <!-- Deadass just a white horse -->
+    <!-- HORSE END -->
+
+    <!-- RATDOG START -->
+    SFP_RatDog <!-- Nasty RatDog Looking thing -->
+    SFP_RatDog_BIG <!-- Nasty RatDog Looking thing but stronger -->
+    <!-- RATDOG END -->
+
+    <!-- SNORK START -->
+    SFP_Mutant_Snork <!-- Dick Nose Bandit -->
+    SFP_Mutant_Snork2 <!-- Dick Nose Bandit -->
+    <!-- SNORK END-->
+
+CREATURES PARTS:
+    SFP_Krovosos_jaw <!-- Bloodsucker Jaw -->
+    SFP_Piyavka_Yazik <!-- Alien Bloodsucker Jaw -->
+    SFP_Plot_eye <!-- Plot Eye -->
+    SFP_Psedog_hvost <!-- CAT/DOG TAIL -->
+    SFP_slepo_hvost <!-- BLIND DOG TAIL -->
+    SFP_CatBaun_Head <!-- Big Ass annoying Cats head -->
+    SFP_Bloodsucker_Otrezano_Head <!-- Bloodsucker Head -->
+    SFP_Bloodsucker_Otrezano_Lapa <!-- Bloodsucker Foot -->
+    SFP_Bloodsucker_Otrezano_Ruka <!-- Bloodsucker Arm -->
+    SFP_Gigant_Otrezano_Head <!-- Seudo Giant Head -->
+    SFP_Gigant_Otrezano_Lapa <!-- Seudo Giant Foot -->
+    SFP_Gigant_Otrezano_kultapa <!-- Seudo Giant Tiny Arm -->
+    SFP_ratdog_Otrezano_Head <!-- RatDog Head -->
+    SFP_ratdog_Otrezano_Lapa <!-- RatDog Leg -->
+    SFP_Snork_Otrezano_Head <!-- Snork Head -->
+    SFP_Snork_Otrezano_ruka <!-- Snork Arm -->
+    SFP_Snork_Otrezano_botinok <!-- Snork Foot -->
+    SFP_Snork_Otrezano_Telo <!-- Snork Chest -->
+
+MISC:
+    SFP_TualBumaga <!-- Roll of Toilet Paper -->
+    SFP_LapTop_work <!-- Animated Laptop -->
+    SFP_Old_TV_ps1 <!-- OLD TV w/ Playstation 1 and Game -->
+    SFP_VAPE_Red_SMOKE <!-- A Working VAPE -->
+    SFP_VAPE_Green_SMOKE <!-- A Working VAPE -->
+    SFP_VAPE_Purpure_SMOKE <!-- A Working VAPE -->
+    SFP_VAPE_yash_SMOKE <!-- A Working Vape -->
+    SFP_SvistokMYZ <!-- A Little Red Whistle / WORKING -->
+    SFP_BalalaikaMYZ <!-- Weird Triangle Guitar Thing / WORKING -->
+    SFP_GubGarmonMYZ <!-- Harmonica / WORKING -->
+    SFP_GitaraMYZ <!-- Accoustic Guitar / WORKING -->
+    SFP_SIGARETA_SMOKE <!-- Cigarette / WORKING -->
+    SFP_Matchbox_Rus <!-- Regular Box of Matches -->
+    SFP_Old_CanOpener <!-- Old Looking Can Opener -->
+    SFP_Camera_old <!-- Old Camera / Zooms Vision Like Binoculars -->
+    SFP_Svetofor_GREEN <!-- Stoplight / on Green -->
+    SFP_Svetofor_RED <!-- Stoplight / on Red -->
+    SFP_Old_TV_Sound <!-- Old TV Showing Static /w Sound -->
+    SFP_Old_TV  <!-- Old TV Showing Static -->
+    SFP_ArmyRadio169 <!-- Old Army Personal Radio Transceiver -->
+    SFP_RusIRP_BoxR4 <!-- Russian Lunch Box / 28-Slots -->
+    SFP_RusIRP_BoxR3 <!-- Russian Lunch Box / 28-Slots -->
+    SFP_RusIRP_BoxR6 <!-- Russian Lunch Box / 28-Slots -->
+    SFP_NaseserRuArmy <!-- Russian HandBag / 18-Slots -->
+    SFP_RusIRP_Taganok <!-- I think its supposed to be a candle / NOT WORKING -->
+    SFP_Tactical_PDA <!-- Wrist Watch that goes in your belt slot / IDK If it works -->
+    SFP_DETECTOR_Medved <!-- Cool Stalker Themed Compass -->
+    SFP_DETECTOR_VELES <!-- Stalker Detector of some sort / NOT WORKING -->
+    SFP_Soviet_Frying_pan <!-- Frying Pan / 12-Slots -->
+    SFP_Soviet_Teapot <!-- Tea Kettle / 16-Slots -->
+    SFP_Soviet_TeapotDecor <!-- Tea Kettle / 16-Slots -->
+    SFP_Mobile_NUKEA <!-- Essentially a Phone flashlight -->
+    SFP_BIGGasCanister <!-- Big Gas Canister.. presumably for the stoves -->
+    SFP_GasStove <!-- Gas Stove -->
+    SFP_PortableGasStove_Druzba <!-- Gas Stove Hunting Plate-->
+    SFP_PortableGasStove <!-- Gas Stove Plate -->
+    SFP_Solar_bat <!-- Just a Generator For now / NOT WORKING as Solar Battery -->
+     
+STATIC OBJECTS:
+    SFP_AntiRad_Vorota <!-- DECON ARCH that sprays water.  Washes Radiation off -->
+    SFP_AntiRad_Kvarc <!-- DECON ARCH with Lamps that Kills Bacteria -->
+    SFP_Lampatka_static <!-- Metal Lamp with Fire / WORKING -->
+    SFP_Artefact_Monolit <!-- Big Crystal Monolith, special effects and voice at 300m -->
+    SFP_ShawermaGrill <!-- Animated Shawerma Grill (spinning and frying meat) -->
+    SFP_USSR_Radio_BarSound100rengen <!-- Static Radio that Plays Music -->
+    SFP_USSR_Radio_SidorBunker <!-- Static Radio that Plays Music -->
+    SFP_USSR_Radio_Sound <!-- Static Radio that Plays Music -->
+    SFP_DeadBodyBasic_SeatCrow <!-- Dead Body In seated Position w/ Crow -->
+    SFP_DeadBodyBasic2_SeatCrow <!-- Dead Body In seated Position w/ Crow -->
+    SFP_DeadBodyKuski_Crow <!-- Dead Body Mid Section w/ Crow -->
+    SFP_DeadBodyKuski <!-- Dead Body Mid Section -->
+    SFP_DeadBodyLeza <!-- Dead Body Laying on Side -->
+    SFP_DeadBodyBurned1 <!-- Dead Burned Body Laying on Side -->
+    SFP_DeadBodyBurned2 <!-- Dead Burned Body Laying on Side -->
+    SFP_DeadBodyBurned1_smoke <!-- Dead Burned Body Laying on Side w/ Smoke -->
+    SFP_DeadBodyBurned2_smoke <!-- Dead Burned Body Laying on Side w/ Smoke -->
+    SFP_DeadBodySkined_Rope <!-- Dead Skinned Body Dangling From Rope -->
+    SFP_DeadBodySkined_Leza <!-- Dead Skinned Body Laying on Side -->
+    SFP_OldBarrelDeadBody_1 <!-- Barrel of Body Parts -->
+    SFP_OldBarrelDeadBody_1Steam <!-- Barrel of Body Parts /w Steam -->
+    SFP_OldBarrelDeadBody_2 <!-- Slightly Bigger Barrel of Body Parts -->
+    SFP_DeadBodyRazbros <!-- Dismembered Body -->
+    SFP_DeadBodyRazbrosCrow <!-- Dismembered Body w/ Crow -->
+    SFP_Crow_sound <!-- Crow w/ Sound -->
+    SFP_Crow <!-- Crow... Duh -->
+    SFP_Bankomat <!-- Green ATM -->
+    SFP_LightLamp_stolb <!-- Street Light / Metal Pole -->
+    SFP_LightLamp_WodStolb <!-- Street Light / Wood Pole /w PowerLine -->
+    SFP_LightLamp_WodStolb2 <!-- Street Light / Wood Pole -->
+    SFP_LightLamp_Mini <!-- Mini Street Light / Metal Pole -->
+    SFP_LightLamp_Only  <!-- Street Light / Just Bulb -->
+    SFP_LightLamp_Only1 <!-- Street Light / Just Bulb -->
+    SFP_GologenLamp <!-- Long Bar Light / Yellow -->
+    SFP_GologenLamp_Ice <!-- Long Bar Light / White -->
+    SFP_Land_Wreck_VestaTaxi <!-- Yellow Taxi Wreck -->
+    SFP_Land_Wreck_OkaPrestine <!-- Oka Wreck -->
+    SFP_FON <!-- Backdrop Prop Set -->
+    SFP_FON2 <!-- Backdrop Prop Set -->
+
+
+
+CONSUMABLES:
+    <!-- FOOD START -->
+    SFP_Food_Doshirak_Priprava <!-- Ramen Seasoning Packet -->
+    SFP_Food_Doshirak_Open <!-- Ramen Bowl Opened -->
+    SFP_Food_DoshirakRed_pack <!-- Ramen Bowl Sealed / RED -->
+    SFP_Food_DoshirakBlue_pack <!-- Ramen Bowl Sealed / BLUE -->
+    SFP_Food_DoshirakGreen_pack <!-- Ramen Bowl Sealed / GREEN -->
+    SFP_Food_DoshirakBrown_pack <!-- Ramen Bowl Sealed / BROWN -->
+    SFP_Food_DoshirakYellou_pack <!-- Ramen Bowl Sealed / YELLOW -->
+    SFP_Food_DoshirakPink_pack <!-- Ramen Bowl Sealed / PINK -->
+    SFP_Food_LomtikHleb <!-- Slice of Dark Bread -->
+    SFP_Food_Buhanka <!-- Loaf of Bread -->
+    SFP_USSR_Kruzka <!-- Coffee Cup / White -->
+    SFP_StakanGranen <!-- Plastic Cup / Clear -->
+    SFP_Tarelka_KolbasaOgurec <!-- Plate with Sausage & Cucumber -->
+    SFP_Tarelka_KolbasaOgurecTomat <!-- Plate with Sausage, Cucumber, Tomato -->
+    SFP_Tarelka_Kolbasa <!-- Plate with Sausage -->
+    SFP_Food_Kolbasa <!-- Stick of Raw Sausage ( No Need to Cook ) -->
+    SFP_Food_ogurec <!-- Cucumber -->
+    SFP_Food_Shawerma <!-- Shawerma Wrap thing -->
+    SFP_RusIRP_Corob <!-- Box of Food -->
+    SFP_RusIRP_ApplePure <!-- Tiny Cup of Food -->
+    SFP_RusIRP_ApplePure_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Farsh <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Farsh_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_ikraFresh <!-- Tiny Cup of Food -->
+    SFP_RusIRP_ikraFresh_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_PastetPecen <!-- Tiny Cup of Food -->
+    SFP_RusIRP_PastetPecen_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Plavleniy <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Plavleniy_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Farsh6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Farsh6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_PastetPecenka6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_PastetPecenka6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_ApplePure6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_ApplePure6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_RaguFresh6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_RaguFresh6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Plavleniy6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Plavleniy6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Spik6 <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Spik6_open <!-- Tiny Cup of Food -->
+    SFP_RusIRP_Goletos_Blue <!-- Crackers -->
+    SFP_RusIRP_Goletos_Green <!-- Crackers -->
+    SFP_RusIRP_OfficerShocolade <!-- Chocolate Bar -->
+    SFP_RusIRP_ArmyShocolade6 <!-- Chocolate Bar -->
+    SFP_RusIRP_SuhouNapitokCherry <!-- Koolaid Mix -->
+    SFP_RusIRP_SuhouNapitokSmorodina <!-- Koolaid Mix -->
+    SFP_RusIRP_SuhouNapitokKlubnika <!-- Koolaid Mix -->
+    SFP_RusIRP_Cofe <!-- Coffee Mix -->
+    SFP_RusIRP_Cofe6 <!-- Coffee Mix -->
+    SFP_RusIRP_Sahar <!-- Sugar Pack -->
+    SFP_RusIRP_Zvacka <!-- Pack of Gum -->
+    SFP_RusIRP_slivki <!-- Cream... -->
+    SFP_RusIRP_PovidloApple <!-- Applesauce maybe? -->
+    SFP_RusIRP_Buckwheat <!-- Porridge with Beef -->
+    SFP_RusIRP_Buckwheat_open <!-- Porridge with Beef -->
+    SFP_RusIRP_Lard <!-- Tina You Fat Lard -->
+    SFP_RusIRP_Lard_open <!-- Tina You Fat Lard -->
+    SFP_RusIRP_Lard2 <!-- Tina You Fat Lard -->
+    SFP_RusIRP_Lard2_open <!-- Tina You Fat Lard -->
+    SFP_RusIRP_GulashMeatTomato <!-- Gulash -->
+    SFP_RusIRP_GulashMeatTomato_open <!-- Gulash -->
+    SFP_RusIRP_Meat <!-- Meat -->
+    SFP_RusIRP_Meat_open <!-- Meat -->
+    SFP_RusIRP_KashaRice <!-- Meat -->
+    SFP_RusIRP_KashaRice_open <!-- Meat -->
+    SFP_RusIRP_MeatFasol6 <!-- Meat -->
+    SFP_RusIRP_MeatFasol6_open <!-- Meat -->
+    SFP_RusIRP_TeftelMeat6 <!-- Meat -->
+    SFP_RusIRP_TeftelMeat6_open <!-- Meat -->
+    SFP_RusIRP_FrecodelMeat <!-- Meat -->
+    SFP_RusIRP_FrecodelMeat_open <!-- Meat -->
+    SFP_RusIRP_KashaGrecaMeat <!-- Meat -->
+    SFP_RusIRP_KashaGrecaMeat_open <!-- Meat -->
+    SFP_RusIRP_MeatFasolFresh <!-- Meat -->
+    SFP_RusIRP_MeatFasolFresh_open <!-- Meat -->
+    SFP_RusIRP_Shpik <!-- Meat -->
+    SFP_RusIRP_Shpik_open <!-- Meat -->
+    <!-- FOOD END -->
+
+    <!-- DRINK START -->
+    SFP_DrinkCan_NonStop <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Stalker <!-- Branded Can of Drink -->
+    SFP_DrinkCan_RedBull <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Monster <!-- Branded Can of Drink -->
+    SFP_DrinkCan_MonsterTheDoc <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Baltica9 <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Zhigulevskoe <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Tuborg <!-- Branded Can of Drink -->
+    SFP_DrinkCan_ESSA <!-- Branded Can of Drink -->
+    SFP_DrinkCan_GinTonik <!-- Branded Can of Drink -->
+    SFP_DrinkCan_Kozel <!-- Branded Can of Drink -->
+    SFP_Vodka_Pseno <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Rus <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Sibir <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_istrinka <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Kazak <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Pseno025 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Sibir025 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Rus025 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_istrinka025 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Kazak025 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Pseno01 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Rus01 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Sibir01 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_istrinka01 <!-- Branded Bottle of Vodka -->
+    SFP_Vodka_Kazak01 <!-- Branded Bottle of Vodka -->
+    SFP_Cognac_Bootle <!-- Branded Bottle of Liquor -->
+    SFP_JackDan_Bootle <!-- Branded Bottle of Liquor -->
+    <!-- DRINK END -->
+
+WEAPONS:
+    <!-- ASSAULT RIFLE START -->
+    SFP_SCAR_H <!-- .308 -->
+        SFP_ScarH_20Rnd <!-- Mag for Scar H -->
+    SFP_Galil <!-- 556X45 -->
+        SFP_Mag_Galil_35rnd <!-- Mag for Galil -->
+    SFP_AK107 <!-- 556X45-->
+        Mag_AK107_30Rnd <!-- Mag for AK107 -->
+        SFP_AK107_PlasticBttstck <!-- Buttstock for AK107 -->
+    SFP_G36A2 <!-- Built in Rail Scope / 556x45 -->
+        SFP_Mag_G36A2_30Rnd <!-- Mag for G36A2 -->
+    <!-- ASSAULT RIFLE END -->
+
+    <!-- SUBMACHINE START -->
+    SFP_Kiparis <!-- Essentially a Scorpion / .380 -->
+        SFP_Kiparis_Mag <!-- Mag for Kiparis -->
+    SFP_9A91 <!-- Internally Suppressed / 9x39 -->
+        SFP_9A91_Mag_20rnd <!-- Mag for 9A91 -->
+    <!-- SUBMACHINE END -->
+
+    <!-- LMG START -->
+    SFP_PKP <!-- 762x54 -->
+        SFP_PKP_BoxMag <!-- Mag for PKP -->
+    <!-- LMG END -->
+
+    <!-- SHOTGUN START -->
+    SFP_MP27M <!-- Over/Under Double Barrel / Full Length -->
+    SFP_ShotgunMP153 <!-- 5rd / Semi-Auto / Picatinny / Full Length -->
+    SFP_ShotgunMP153Mod <!-- 9rd / Semi-Auto / Picatinny / Full Length -->
+    SFP_WinM1912_Shotgun <!-- 5rd / Pump / Full Length -->
+    SFP_WinM1912Short_Shotgun <!-- 5rd / Pump / Short -->
+    SFP_VEPR12 <!-- Modular / Full Auto -->
+        SFP_Vepr12_32Rnd <!-- Mag for Vepr12 -->
+        SFP_Vepr12_16Rnd <!-- Mag for Vepr12 -->
+        SFP_Vepr12_8Rnd <!-- Mag for Vepr12 -->
+    SFP_VEPR12_CAMO <!-- Modular / Full Auto -->
+        SFP_Vepr12_camo_32Rnd <!-- Mag for Vepr12 -->
+        SFP_Vepr12_camo_16Rnd <!-- Mag for Vepr12 -->
+        SFP_Vepr12_Camo_8Rnd <!-- Mag for Vepr12 -->
+        SFP_VEPR12_Bttstck <!-- Buttstock for Vepr12 -->
+    SFP_Fabarm_shotgun <!-- 5rd / Pump / Short -->
+    SFP_Mossberg_Maverick <!-- 6rd / Pump / Short -->
+    SFP_Rem870 <!-- 7rd / Pump / Full Length -->
+    SFP_Zombie <!-- 5rd / Pump / Short -->
+    SFP_UsStevens620 <!-- 6rd / Pump / Full Length -->
+    <!-- SHOTGUN END -->
+
+    <!-- LONG RIFLE START -->
+    SFP_SOC94 <!-- Modded AK Platform / .308 -->
+        SFP_SOC94_7rnd_Mag <!-- Mag for SOC94 -->
+    SFP_SVD1963 <!-- OG Looking SVD / 762x54 -->
+        SFP_SVD_Bipod <!-- Bipod for SVD -->
+        SFP_SVD_Belt <!-- Belt for SVD -->
+        
+    <!-- LONG RIFLE END -->
+
+    <!-- PISTOL START -->
+    SFP_Tocarev <!-- Russian / .380 -->
+        SFP_PistolTocarevMagazine_8rnd <!-- Mag for Tocarev -->
+    SFP_Makarom_Apoc <!-- Reskinned IJ-70 / .380 -->
+    <!-- PISTOL END --> 
+
+    <!-- OTHER START -->
+    SFP_FIREGUN <!-- FlameThrower / DOESNT WORK / CRASHES GAME -->
+        SFP_FireGun_GasBal <!-- FlameThrower Fuel Canister -->
+    SFP_F1Grenade <!-- Frag Grenade -->
+    SFP_Molotov <!-- Molotov --> 
+    <!-- OTHER END -->
+    
+    <!-- ATTACHMENTS START -->
+    SFP_PSO11Optic <!-- Optic for AK Platform -->
+    SFP_HK416_Bttstck <!-- Buttstock for HK416 -->
+    <!-- ATTACHMENTS END -->
+
+    <!-- MELEE START -->
+    SFP_CreepyAxe <!-- Custom Axe Model -->
+    <!-- MELEE END -->
+
+
+
+NPC:
+    SFP_FemaleDance_NPC  <!-- Dancing Animation / Laura Croft -->
+    SFP_Kardan_NPC      <!-- Sitting Animation / Military -->
+    SFP_Military_NPC_pose1 <!-- On Guard Animation / Military -->
+    SFP_NaemFemale_NPC_quest <!-- Sitting Animation / Military / Voice Acting-->
+    SFP_NaemFemale_NPC_traider <!-- Sitting Animation / Military / Voice Acting -->
+    SFP_NaemFemale_NPC_v_Bare <!-- Leaning On Bar Animation / Military / Voice Acting -->
+    SFP_Saharov_NPC_Voice <!--Hands Behind Back Animation / Scientist / Voice Acting -->
+    SFP_Saharov_NPC <!-- Hands Behind Back Animation / Scientist -->
+    SFP_StalkerNPC_Gaming1 <!-- Sitting & Gaming Animation / Military -->
+    SFP_StalkerNPC_Gaming2 <!-- Sitting & Gaming Animation / Military -->
+    SFP_Stalker_Mangal_voice <!-- Crouched over Grill Frying Kebab Animation / Military -->
+    SFP_NPC_Lesnik <!-- Sitting On Bed w/ Bed Animation / Old Mil -->
+    SFP_NPC_Lesnik_Voice <!-- Sitting On Bed w/ Bed Animation / Old Mil / Voice Acting --> 
+    SFP_NCP_Barmen <!-- Standing Hands in Pockets Animation / Old Bartender -->    
+    SFP_NCP_Barmen_voice <!-- Standing Hands in Pockets Animation / Old Bartender / Voice Acting --> 
+    SFP_NCP_Sidor <!-- Sitting at Desk w/ Desk and Accessories Animation / Old Guy --> 
+    SFP_NCP_Sidor_Voice <!-- Sitting at Desk w/ Desk and Accessories Animation / Old Guy / Voice Acting --> 
+    SFP_StalkerGitara_NPC <!-- Sitting playing guitar Animation / Stalker Mil / With Sound -->  
+    SFP_StalkerGitaraP_NPC <!-- Sitting on log playing guitar Animation / Stalker Mil / With Sound -->
+    SFP_StalkerGitaraP2_NPC <!-- Sitting on stump playing guitar Animation / Stalker Mil / With Sound -->
+
+
+ZOMBIES:
+    SFP_Zombirovan_ondinocka <!-- Zombie Stalker / Gray --> 
+    SFP_Zombirovan_DOLG <!-- Zombie Stalker / Black --> 
+    SFP_Zombirovan_Neitral <!-- Zombie Stalker / Black --> 
+    SFP_Zombirovan_Free <!-- Zombie Stalker / Green/Black --> 
+    SFP_Zombirovan_Monolit <!-- Zombie Stalker / Green/White --> 
+    SFP_Zombirovan_Naem <!-- Zombie Stalker / Gray --> 
+     <!--  --> 
+     <!--  --> 
+     <!--  --> 
+     <!--  --> 
+
+
+WEARABLE ITEMS:
+    <!-- HEAD START -->
+    SFP_CombezBullatHelmet_green <!-- Camo Ballistic Helmet w/ NVG Attachment & Flashlight slot -->
+    SFP_CombezBullatHelmet_Dolg <!-- Black Camo Ballistic Helmet w/ NVG Attachment slot -->
+    SFP_ShapkaTan <!-- Camo Beanie -->
+    SFP_TacticalHelmet_Green <!-- Green Combat Helmet w/Black Glasses w/ NVG Attachments & Flashlight slot -->
+    SFP_TacticalHelmet_Black <!-- Black Combat Helmet w/Black Glasses w/ NVG Attachments & Flashlight slot -->
+    SFP_TacticalHelmet_Black2 <!-- Black Combat Helmet w/Red Glasses w/ NVG Attachments & Flashlight slot -->
+    SFP_TacticalHelmet_Black3 <!-- Black Combat Helmet w/Blue Glasses w/ NVG Attachments & Flashlight slot -->
+    SFP_TacticalHelmet_Blue <!-- Blue Combat Helmet w/Black Glasses w/ NVG Attachments & Flashlight slot -->
+    SFP_ExoClassic_Helmet_Dolg <!-- Black/Red ExoSuit Helmet w/ NVG Attachments & Flashlight slot-->
+    SFP_ExoClassic_Helmet_Svoboda <!-- Orange ExoSuit Helmet w/ NVG Attachments & Flashlight slot-->
+    SFP_ExoClassic_Helmet_Naem <!-- Grey ExoSuit Helmet w/ NVG Attachments & Flashlight slot-->
+    SFP_ExoClassic_Helmet_monolit <!-- Brown ExoSuit Helmet w/ NVG Attachments & Flashlight slot-->
+    SFP_ExoClassic_Helmet_Neitral <!-- Black ExoSuit Helmet w/ NVG Attachments & Flashlight slot-->
+    SFP_Stranik_Hood <!-- Dirty Green Hood -->
+    SFP_HeadPhonesArmy <!-- Green Mil Headphones -->
+    SFP_BeanieHatSport <!-- Blue Beanie -->
+    SFP_Hat_Black <!-- Black Beanie -->
+    SFP_EcologBig_Helm <!-- Orange Amongus Hazmat Helmet w/ NVG & Flashlight Attachments -->
+    SFP_ExoArmor_Helm <!-- Black/Red ExoSuit Helmet w/ NVG Attachments & Flashlight slot -->
+    SFP_ExoArmor_HelmLite <!-- Metal ExoSuit Helmet w/ NVG Attachments & Flashlight slot -->
+    SFP_Hazmat_Helm <!-- Black Hazmat Helmet w/ NVG & Flashlight Attachments -->
+    <!-- HEAD END -->
+
+    <!-- FACE START -->
+    SFP_GasMaskPunk <!-- Gas Mask / Skull-ish design -->
+    SFP_Respirator_red <!-- Half Face Respirator -->
+    SFP_Stranik_FaceMask <!-- Brown Leather Facemask -->
+    SFP_GP7GasMask <!-- Gas Mask but looks like a BDSM Mask -->
+    <!-- FACE END -->
+
+    <!-- SHIRT START -->
+    SFP_CombezBullat_green <!-- Camo Combat Shirt / 56-Slot --> 
+    SFP_CombezBullat_Dolg <!-- Black Camo Combat Shirt / 56-Slot -->
+    SFP_Stalker_Plash_leather <!-- Black Leather Duster / 42-Slot -->
+    SFP_Stalker_Plash_Beige <!-- Burlap Duster / 42-Slot -->
+    SFP_CombezST_Neitral <!-- Brown Leather Combat Jacket / 42-Slot -->
+    SFP_CombezST_Dolg <!-- Black/Red Leather Combat Jacket / 42-Slot -->
+    SFP_CombezST_Free <!-- Camo Leather Combat Jacket / 42-Slot -->
+    SFP_CombezST_Monolit <!-- White/Green Leather Combat Jacket / 42-Slot -->
+    SFP_CombezST_Zara <!-- Black Combat Jacket / 42-Slot -->
+    SFP_CombezST_Naem <!-- Grey Leather Combat Jacket / 42-Slot -->
+    SFP_ExoClassic_Tors_Dolg <!-- Black/Red ExoSuit Top / 72-Slot -->
+    SFP_ExoClassic_Tors_Svoboda <!-- Camo/Orange ExoSuit Top / 72-Slot -->
+    SFP_ExoClassic_Tors_Naem <!-- Blue ExoSuit Top / 72-Slot -->
+    SFP_ExoClassic_Tors_monolit <!-- Green ExoSuit Top / 72-Slot -->
+    SFP_ExoClassic_Tors_Neitral <!-- Grey ExoSuit Top / 72-Slot -->
+    SFP_Brodaga_Jacket <!-- Long Grey Puffy Duster w/ Green Sweater / 49-Slot -->
+    SFP_Stranik_Sweeter <!-- Dirty Green Sweater / 30-Slot -->
+    SFP_Gorka4Vest_Top <!-- Tan/Black Gorka Jacket w/ Balistic Vest / 42-Slot -->
+    SFP_Gorka4_Jacket_TanBlack <!-- Tan/Black Gorka Jacket / 72-Slot -->
+    SFP_BadHeavyArmor_tors <!-- Redish Heavy Armored Jacket / 49-Slot / DOESN'T WORK RIGHT-->
+    SFP_EcologBig_tors <!--Yellow Hazmat Shirt / 72-Slot -->
+    SFP_ExoArmor_Tors  <!-- Red/Black ExoSkeleton Jacket / 72-Slot -->
+    SFP_TankArmor_Tors <!-- Badass Black Mando Heavy Armor Jacket / 49-Slot -->
+    SFP_Hazmat_tors <!--Black Hazmat Jacket / 72-Slot -->
+    SFP_Heavy_Military_armor <!-- Green Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Heavy_Military_armor_DOLG <!-- Red/Black Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Heavy_Military_armor_CS <!-- Teal Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Heavy_Military_armor_Monolit <!-- Brown/Grey Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Heavy_Military_armor_Naem <!-- Blue Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Heavy_Military_armor_voin <!-- Brown/Green Camo Heavy Armor Jacket / 24-Slot -->
+    SFP_Novice_jacket_Hood <!--Old Brown Soviet Jacket /w Hood / 49-Slot -->
+    SFP_Novice_jacket <!--Old Brown Soviet Jacket / 49-Slot -->
+    SFP_SpecOpsTactical_Tors <!-- Red/Black Heavy Tac Jacket / 49-Slot -->
+    SFP_USSR_Jacket_Bandit <!-- Blue Leather Jacket / 24-Slot  -->
+    <!-- SHIRT END -->
+    
+    <!-- VEST START -->
+    SFP_Gorka4_Vest <!-- Green Carrier Rig / 30-Slot -->
+    SFP_MilitaryBodyVest <!-- Green Full Body Balistic Armor / 36-Slot + Attachments -->
+    SFP_Vest6b5_green <!-- Green Russian Balistic Vest / 36-Slot -->
+    SFP_Vest6b5_Tan <!-- Tan Russian Balistic Vest / 36-Slot -->
+    SFP_Vest6b5_Black <!-- Black Russian Balistic Vest / 36-Slot -->
+    <!-- VEST END -->
+
+    <!-- WAIST START -->
+    
+    <!-- WAIST END -->
+
+    <!-- PANTS START -->
+    SFP_CombezBullatPants_Green <!-- Camo Combat Pants / 24-Slot -->
+    SFP_CombezBullatPants_DOLG <!-- Black Camo Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Neitral <!-- Brown Leather Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Dolg <!-- Black/Red Leather Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Free <!-- Camo Leather Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Monolit <!-- White/Green Leather Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Naem <!-- Grey Leather Combat Pants / 24-Slot -->
+    SFP_CombezPantsST_Zara <!-- Black Leather Combat Pants / 24-Slot -->
+    SFP_ExoClassic_Pants_Dolg <!-- Black/Red ExoSuit Pants / 36-Slot -->
+    SFP_ExoClassic_Pants_Svoboda <!-- Camo/Orange ExoSuit Pants / 36-Slot -->
+    SFP_ExoClassic_Pants_Naem <!-- Blue ExoSuit Pants / 36-Slot -->
+    SFP_ExoClassic_Pants_Neitral <!-- Green ExoSuit Pants / 36-Slot -->
+    SFP_ExoClassic_Pants_monolit <!-- Brown ExoSuit Pants / 36-Slot -->
+    SFP_Stranik_Pants <!-- Dirty Brown Pants / 30-Slot -->
+    SFP_Gorka4_Pants <!-- Tan/Black Gorka Pants / 24-Slot -->
+    SFP_Gorka4_PantsBelt <!-- Tan/Black Gorka Pants w/ Belt / 24-Slot -->
+    SFP_BadHeavyArmor_pants <!-- Redish Heavy Armored Pants / 18-Slot / DOESN'T WORK RIGHT-->
+    SFP_EcologBig_pants <!-- Yellow Hazmat Pants / 36-slot -->
+    SFP_ExoArmor_Pants  <!-- Red/Black ExoSkeleton Pants / 36-Slot -->
+    SFP_TankArmor_pants <!-- Badass Black Mando Heavy Armor Pants / 18-Slot -->
+    SFP_Hazmat_pants <!-- Black Hazmat Pants / 36-Slot -->
+    SFP_Heavy_Military_pants <!-- Green Camo Heavy Armor Pants / 18-Slot -->
+    SFP_Heavy_Military_pants_DOLG <!-- Red/Black Camo Heavy Armor Pants / 18-Slot -->
+    SFP_Heavy_Military_pants_CS <!-- Teal Camo Heavy Armor Pants / 18-Slot -->
+    SFP_Heavy_Military_pants_Monolit <!-- Brown/Grey Camo Heavy Armor Pants / 18-Slot -->
+    SFP_Heavy_Military_pants_Naem <!-- Blue Camo Heavy Armor Pants / 18-Slot -->
+    SFP_Heavy_Military_pants_voin <!-- Brown/Green Camo Heavy Armor Pants / 18-Slot -->
+    SFP_SpecOpsTactical_Pants <!-- Red/Black Heavy Tac Pants / 18-Slot -->
+    <!-- PANTS END -->
+
+    <!-- HAND START -->
+    SFP_JustGloves <!-- Red/White/Black Motorcycle Gloves -->
+    SFP_JustMiniGloves <!-- Red/White/Black Motorcycle Fingerless Gloves -->
+    SFP_EXO_Glove <!-- ExoSuit Gloves -->
+    <!-- HAND END -->
+
+    <!-- BACK START -->
+    SFP_Novice_bagpack <!-- 35-Slot -->
+    <!-- BACK END -->
+
+    <!-- FEET START -->
+    SFP_Slanec_only <!-- Black Slides -->
+    SFP_Slanec_nosok <!-- Black Slides w/ Socks -->
+    SFP_Stranik_Boots <!-- Dirty Brown/Black Boots -->
+    SFP_Gorka4_Boots <!-- Brown/Black Mil Boots -->
+    SFP_Reptor_Boots <!-- Brownish Hiking Boots -->
+    SFP_EcologBig_Boots <!-- Yellow Hazmat Boots -->
+    SFP_ExoArmor_Boots  <!-- Red/Black ExoSkeleton Boots -->
+    SFP_TankArmor_boots <!-- Badass Black Mando Heavy Armor Boots -->
+    SFP_Hazmat_Boots <!-- Black Hazmat Boots -->
+    SFP_Heavy_Military_boots <!-- Green Camo Heavy Armor Boots -->
+    SFP_Heavy_Military_boots_DOLG <!-- Red/Black Camo Heavy Armor Boots -->
+    SFP_Heavy_Military_boots_CS <!-- Teal Camo Heavy Armor Boots -->
+    SFP_Heavy_Military_boots_Monolit <!-- Brown/Grey Camo Heavy Armor Boots -->
+    SFP_Heavy_Military_boots_Naem <!-- Blue Camo Heavy Armor Boots -->
+    SFP_Heavy_Military_boots_voin <!-- Borwn/Green Camo Heavy Armor Boots -->
+    <!-- FEET END -->
+
+    <!-- ARM START -->
+    SFP_TAG_OSCOP <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Efretor <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_MLserzant <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Serzant <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Letexa <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_StLetexa <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Kapitan <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Maer <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_PodPolkan <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    SFP_TAG_DOLG_Polkan <!-- ARMBAND w/ Bandage Attachment / 2-Slot -->
+    <!-- ARM END -->
+
+    <!-- MISC START -->
+    SFP_Skeleton_Kostum <!-- Supposed to make you look like Skeleton / DOESN'T WORK -->
+    SFP_Maskarad_Head <!--  Makes This Body Part Invis / CAN'T SEE TO REMOVE -->
+    SFP_Maskarad_pants <!--  Makes This Body Part Invis / CAN'T SEE TO REMOVE -->
+    SFP_Maskarad_tors <!--  Makes This Body Part Invis / CAN'T SEE TO REMOVE -->
+    SFP_Maskarad_boots <!--  Makes This Body Part Invis / CAN'T SEE TO REMOVE -->
+    SFP_Maskarad_Gloves <!--  Makes This Body Part Invis / CAN'T SEE TO REMOVE -->
+    SFP_Bloodsucker_maskarad <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_Mutant_Snork_maskarad <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_NaemFemaleMaskarad1 <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_NaemFemaleMaskarad1fv <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_NaemFemaleMaskarad3 <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_NaemFemaleMaskarad2 <!-- Maskerade Suit / DOESN'T WORK-->
+    SFP_ArmaGerlMaskarad <!-- Maskerade Suit / DOESN'T WORK-->
+    <!-- MISC END -->
+
+
+
+COLLECTIBLES:
+    <!-- JURAL START (Magazines/Pics of Spicy Ladies)-->
+    SFP_Collection_Jural_1
+    SFP_Collection_Jural_2
+    SFP_Collection_Jural_3
+    SFP_Collection_Jural_4
+    SFP_Collection_Jural_5
+    SFP_Collection_Jural_6
+    SFP_Collection_Jural_7
+    SFP_Collection_Jural_8
+    SFP_Collection_Jural_9
+    SFP_Collection_Jural_10
+    SFP_Collection_Jural_11
+    SFP_Collection_Jural_12
+    SFP_Collection_Jural_13
+    SFP_Collection_Jural_14
+    SFP_Collection_Jural_15
+    SFP_Collection_Jural_16
+    SFP_Collection_Jural_17
+    SFP_Collection_Jural_18
+    SFP_Collection_Jural_19
+    SFP_Collection_Jural_20
+    SFP_Collection_Jural_21
+    SFP_Collection_Jural_22
+    SFP_Collection_Jural_23
+    SFP_Collection_Jural_24
+    SFP_Collection_Jural_25
+    SFP_Collection_Jural_26
+    SFP_Collection_Jural_27
+    SFP_Collection_Jural_28
+    SFP_Collection_Jural_29
+    SFP_Collection_Jural_30
+    SFP_Collection_Jural_31
+    SFP_Collection_Jural_32
+    SFP_Collection_Jural_33
+    SFP_Collection_Jural_34
+    SFP_Collection_Jural_35
+    SFP_Collection_Jural_36
+    SFP_Collection_Jural_37
+    SFP_Collection_Jural_38
+    SFP_Collection_Jural_39
+    SFP_Collection_Jural_40
+    SFP_Collection_Jural_41
+    SFP_Collection_Jural_42
+    SFP_Collection_Jural_43
+    SFP_Collection_Jural_44
+    SFP_Collection_Jural_45
+    SFP_Collection_Jural_46
+    SFP_Collection_Jural_47
+    SFP_Collection_Jural_48
+    SFP_Collection_Jural_49
+    SFP_Collection_Jural_50
+    SFP_Collection_Jural_51
+    SFP_Collection_Jural_52
+    SFP_Collection_Jural_53
+    SFP_Collection_Jural_54
+    SFP_Collection_Jural_55
+    SFP_Collection_Jural_56
+    SFP_Collection_Jural_57
+    SFP_Collection_Jural_58
+    SFP_Collection_Jural_59
+    SFP_Collection_Jural_60
+    SFP_Collection_Jural_61
+    SFP_Collection_Jural_62
+    SFP_Collection_Jural_63
+    SFP_Collection_Jural_64
+    SFP_Collection_Jural_65
+    SFP_Collection_Jural_66
+    SFP_Collection_Jural_67
+    SFP_Collection_Jural_68
+    SFP_Collection_Jural_69
+    SFP_Collection_Jural_70
+    SFP_Collection_Jural_71
+    SFP_Collection_Jural_72
+    SFP_Collection_Jural_73
+    SFP_Collection_Jural_74
+    SFP_Collection_Jural_75
+    SFP_Collection_Jural_76
+    SFP_Collection_Jural_77
+    SFP_Collection_Jural_78
+    SFP_Collection_Jural_79
+    SFP_Collection_Jural_80
+    SFP_Collection_Jural_81
+    SFP_Collection_Jural_82
+    SFP_Collection_Jural_83
+    SFP_Collection_Jural_84
+    SFP_Collection_Jural_85
+    SFP_Collection_Jural_86
+    SFP_Collection_Jural_87
+    <!-- JURAL END (Magazines/Pics of Spicy Ladies) --> 
+
+    <!-- LORE JURAL START (Lore Notes / In Russian) -->
+    SFP_Collection_Lor_Jural_1
+    SFP_Collection_Lor_Jural_2
+    SFP_Collection_Lor_Jural_3
+    SFP_Collection_Lor_Jural_4
+    SFP_Collection_Lor_Jural_5
+    SFP_Collection_Lor_Jural_6
+    SFP_Collection_Lor_Jural_7
+    SFP_Collection_Lor_Jural_8
+    SFP_Collection_Lor_Jural_9
+    SFP_Collection_Lor_Jural_10
+    SFP_Collection_Lor_Jural_11
+    <!-- LORE JURAL END (Lore Notes / In Russian) -->
+
+VEHICLE:
+    <!-- OKA START (VEHICLE IS NOT FINISH / DOES NOT WORK RIGHT) -->
+    SFP_Oka_Car --Oka machine
+    SFP_OkaWheel
+    SFP_OkaWheel_ruined
+    SFP_Oka_Doors
+    SFP_Oka_CoDoors
+    <!-- OKA END -->
+
+
+
+
+
+
+
+
+
+
+
