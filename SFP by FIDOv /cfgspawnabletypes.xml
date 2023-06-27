@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <!-- Created by: Dr. Borg | UPDATED: 6/25/23                            -->
+    <!-- I Only added items that were in the mod or vanilla so there won't  -->
+	<!-- be compatibility issues.  You can modify at your own will.         -->
+
+<spawnabletypes>
+    <type name="SFP_SCAR_H">
+		<attachments chance="0.50">
+			<item name="SFP_ScarH_20Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="M4_CarryHandleOptic" chance="0.10" />
+            <item name="BUISOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.20" />
+            <item name="M4_T3NRDSOptic4" chance="0.10" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="ACOGOptic" chance="0.10" />
+            <item name="ACOGOptic_6x" chance="0.10" />
+            <item name="M4_CarryHandleOptic" chance="0.10" />
+		</attachments>
+	</type>
+    <type name="SFP_Galil">
+		<attachments chance="0.25">
+			<item name="SFP_Mag_Galil_35rnd" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="SFP_AK107">
+		<attachments chance="0.25">
+			<item name="Mag_AK107_30Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="0.25">
+			<item name="SFP_AK107_PlasticBttstck" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_G36A2">
+		<attachments chance="0.25">
+			<item name="SFP_Mag_G36A2_30Rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="SFP_Kiparis">
+		<attachments chance="0.25">
+			<item name="SFP_Kiparis_Mag" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="PistolSuppressor" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="SFP_9A91">
+		<attachments chance="0.25">
+			<item name="SFP_9A91_Mag_20rnd" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_PKP">
+		<attachments chance="0.25">
+			<item name="SFP_PKP_BoxMag" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_VEPR12">
+		<attachments chance="0.25">
+			<item name="SFP_Vepr12_32Rnd" chance="0.10" />
+            <item name="SFP_Vepr12_16Rnd" chance="0.30" />
+            <item name="SFP_Vepr12_8Rnd" chance="0.60" />
+		</attachments>
+        <attachments chance="0.25">
+			<item name="SFP_VEPR12_Bttstck" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_VEPR12_CAMO">
+		<attachments chance="0.25">
+			<item name="SFP_Vepr12_camo_32Rnd" chance="0.10" />
+            <item name="SFP_Vepr12_camo_16Rnd" chance="0.30" />
+            <item name="SFP_Vepr12_Camo_8Rnd" chance="0.60" />
+		</attachments>
+        <attachments chance="0.25">
+			<item name="SFP_VEPR12_Bttstck" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_SOC94">
+		<attachments chance="0.25">
+			<item name="SFP_SOC94_7rnd_Mag" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_SVD1963">
+		<attachments chance="0.25">
+			<item name="SFP_SVD_Bipod" chance="1.00" />
+		</attachments>
+        <attachments chance="0.25">
+			<item name="SFP_SVD_Belt" chance="1.00" />
+		</attachments>
+        <attachments chance="0.05">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>
+        <attachments chance="0.50">
+			<item name="KobraOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.10" />
+            <item name="PSO11Optic" chance="0.10" />
+            <item name="KashtanOptic" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SFP_Tocarev">
+		<attachments chance="0.25">
+			<item name="SFP_PistolTocarevMagazine_8rnd" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="SFP_Makarom_Apoc">
+		<attachments chance="0.25">
+			<item name="Mag_IJ70_8Rnd" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="SFP_FIREGUN">
+		<attachments chance="0.25">
+			<item name="SFP_FireGun_GasBal" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
